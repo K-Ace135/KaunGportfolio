@@ -1,22 +1,4 @@
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 :root {
   --Black: #000000;
   --White: #ffffff;
@@ -74,28 +56,7 @@
   --Primary: #e14392;
 }
 
-/*---------- Reset css styles ----------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
-/* Reset Browsers
--------------------------------------------------------------- */
 html,
 body,
 div,
@@ -1325,25 +1286,7 @@ a:hover, a:focus {
 
 /*------------ Components ---------------- */
 /*------------ header ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .header {
   padding-top: 39px;
   z-index: 999;
@@ -1632,25 +1575,7 @@ a:hover, a:focus {
 }
 
 /*------------ footer ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .tab-slide {
   max-width: 335px;
   padding: 4px;
@@ -1729,25 +1654,7 @@ a:hover, a:focus {
 }
 
 /*------------ button ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .tf-btn {
   height: 56px;
   padding: 0 40px;
@@ -1893,25 +1800,7 @@ a:hover, a:focus {
   }
 }
 /*------------ form ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 form {
   position: relative;
   z-index: 30;
@@ -2038,25 +1927,7 @@ form textarea {
 }
 
 /*------------ slider ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .sw-button {
   height: 36px;
   width: 36px;
@@ -2088,25 +1959,7 @@ form textarea {
 }
 
 /*------------ off canvas ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .offcanvas-backdrop, .overlay-popup {
   top: 0;
   left: 0;
@@ -2409,25 +2262,7 @@ form textarea {
 }
 
 /*------------ hover ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .hover-image .img-style,
 .hover-image .article-thumb {
   position: relative;
@@ -2554,25 +2389,7 @@ form textarea {
 }
 
 /*------------ blog ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .testimonial-item {
   position: relative;
   overflow: hidden;
@@ -2608,25 +2425,7 @@ form textarea {
 }
 
 /*------------ dark-mode ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .dark-mode {
   --Bg-dark: #f8f7f4;
   --Bg-linear: #ffffff;
@@ -2765,25 +2564,7 @@ form textarea {
 }
 
 /*------------ landing ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .bg-landing {
   background-color: #0c0c0c;
 }
@@ -3355,25 +3136,7 @@ ANIMATION AREA CSS
 ::::::::::::::::::::::::::
 */
 /*------------ widgets ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .user-bar {
   position: fixed;
   left: 41px;
@@ -4154,25 +3917,7 @@ ANIMATION AREA CSS
 }
 
 /*------------ sections ---------------- */
-/* ---------------------------------------------------------
-    * Name: 
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-    * section
-
-    * dashboard
-
-    * Responsive
- ------------------------------------------------------------------------------ */
-/*--------- Abstracts variable ---------- */
 .main-content {
   padding-top: 50px;
 }
@@ -4333,4 +4078,3 @@ ANIMATION AREA CSS
   }
 }
 
-/*# sourceMappingURL=styles.css.map */
